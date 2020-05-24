@@ -4,21 +4,21 @@ import { Product } from "../types.ts";
 let products: Product[] = [
   {
     id: "1",
-    name: "first product",
-    description: "its the first",
-    price: 30.99,
+    name: "nintendo switch",
+    description: "hybrid game console",
+    price: 299.99,
   },
   {
     id: "2",
-    name: "second product",
-    description: "its the second",
-    price: 99.99,
+    name: "rolled oats",
+    description: "delicious organic oats",
+    price: 3.99,
   },
   {
     id: "3",
-    name: "third product",
-    description: "its the third",
-    price: 104.99,
+    name: "neil young - homegrown lp",
+    description: "unreleased neil album",
+    price: 15.99,
   },
 ];
 
